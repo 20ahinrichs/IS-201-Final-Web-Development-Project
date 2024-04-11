@@ -1,0 +1,69 @@
+p {
+   color: white;
+   font-family:  "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
+}
+
+::selection {
+   color: #ff9375;
+}
+
+.overwritetextcolor {
+   color: #ff9375;
+}
+
+.overwritecolormid {
+   color: #f5d5cc;
+}
+
+.overwritetextcolordark {
+   color: rgb(244, 98, 58)
+}
+
+h1.overwritetextsize {
+   font-size-adjust: 40rem;
+}
+
+.overwritetextspacing {
+   letter-spacing: 1.5cm;
+}
+
+.overwriteitalicize {
+   font-style: italic;
+}
+
+.overwritetextcolorsub {
+   color: rgb(255, 208, 190);
+}
+
+.overwritetextcolorwhite{
+   color: white
+}
+
+.overwritefont{
+   margin-top: 0;
+   margin-bottom: 0.5rem;
+   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+   font-weight: 500;
+   line-height: 1.2;
+}
+
+.overwritefontsmall{
+   font-size: small;
+}
+
+.ulnobullets {
+   list-style-type: none;
+}
+
+.licenter {
+   text-align:center;
+}
+
+.overwritebackground{
+   background-color:rgb(255, 208, 190) ;
+}
+
+a:hover.hoverlink{
+   text-decoration: underline;
+
+}

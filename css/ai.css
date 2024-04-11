@@ -1,0 +1,172 @@
+body{
+    position: absolute;
+    background-color: white;
+}
+
+.subheading{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-style: italic;
+    text-transform: lowercase;
+    line-height: 35px;
+    word-spacing: 1px;
+    letter-spacing: 3px;
+    text-align: center;
+    color:#305E5A;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 35px;
+}
+
+.firstphead{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: 250;
+    text-transform: uppercase;
+    line-height: 35px;
+    word-spacing: 1px;
+    letter-spacing: 3.5px;
+    text-align: center;
+    color:#305E5A;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 70px;
+}
+
+.pheading{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    text-transform: uppercase;
+    line-height: 35px;
+    word-spacing: 1px;
+    letter-spacing: .75px;
+    text-align: center;
+    color:#305E5A;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 70px;
+}
+
+.heading {
+    padding-top: 75px;
+    padding-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 170px;
+    font-weight: 600;
+    color: #305E5A;
+    letter-spacing: 2px;
+    text-align: center;
+    font-style: italic;
+}
+
+.section-tableau{
+    padding-top: 5px;
+    padding-left: 150px;
+    align-content: center;
+}
+
+.custompaddingtableau{
+    padding-left: 270px;
+    padding-top: 0px;
+}
+
+.custompaddingbottom{
+    padding-bottom: 10px;
+}
+
+.imgspacing{
+    margin-right: 10px;
+}
+
+.section-portfolio{
+    display: block;
+    margin-left: 260px;
+    resize: both 500px;
+    padding-bottom: 25px;
+}
+
+.nav-link-list{
+    padding-bottom: 40px;
+    list-style-type:none;
+    display: inline-block;
+}
+
+.nav-link {
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 550;
+    padding: 0.75rem 0;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-right: 100px; 
+}
+
+.nav-link:hover{
+    color:#19302e;
+}
+
+.nl-align-center{
+    text-align: center;
+}
+
+.nav-container{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#305E5A
+}
+
+.video{
+    padding-left: 250px;
+    align-items: center;
+}
+
+.aboutcustompadding{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.aboutbg{
+    background-color: #badcd9d5;
+}
+
+.custompadding{
+    padding-top:20px;
+}
+
+.custommarginlist{
+    padding-right:20px;
+    padding-left:20px;
+}
+
+.custompaddingvideo{
+    padding-left: 355px;
+}
+
+.diycustompadding{
+    padding-bottom:20px;
+}
+
+.aboutcustomtext{
+    font-style: italic;
+    font-size: 15px;
+}
+
+.customli{
+    list-style: none;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.customul{
+    list-style: none;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.custombold{
+    font-weight: 600;
+}
